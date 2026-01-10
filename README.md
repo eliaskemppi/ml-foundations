@@ -66,6 +66,8 @@ Practical data preprocessing techniques.
 
 - Multi-layer perceptron (MLP)
 
+- Regularization
+
 - Architectures
 
     - Autoencoders
