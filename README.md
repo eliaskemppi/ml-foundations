@@ -86,7 +86,11 @@ Natural language processing fundamentals and modern approaches.
 
 - Word embeddings
 
-- Fine-tuning language models
+- Large Language Models (LLMs)
+
+    - Fine-tuning
+
+    - Quantizing
 
 **06_computer_vision**
 
