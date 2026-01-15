@@ -4,7 +4,7 @@ This repository is a learning-driven portfolio of machine learning and data scie
 
 I am a machine learning, data science and artificial intelligence student, and the main purpose of this repo is to support my learning process. I learn best by implementing concepts from scratch and this repository reflects that approach.
 
-For recruiters: this repo is intended to demonstrate conceptual understanding, practical implementation, and progression over time, rather than polished production systems.
+For recruiters: this repo is intended to demonstrate conceptual understanding, practical implementation, and progression over time, rather than polished production systems with flawless code.
 
 ## Repository Structure
 
@@ -82,9 +82,11 @@ Practical data preprocessing techniques.
 
 Natural language processing fundamentals and modern approaches.
 
-- Bag-of-Words and TF-IDF
+- Feature Extraction
 
-- Word embeddings
+    - Bag-of-Words and TF-IDF
+
+    - Word embeddings
 
 - Large Language Models (LLMs)
 
