@@ -110,9 +110,13 @@ Additional topics that don’t fit cleanly into one category.
 
 - Bayesian A/B testing
 
+- Directed Acyclic Graphs
+
 - Hypothesis testing
 
 - Model drift
+
+- Recommenders
 
 - Vector databases (WIP)
 
